@@ -1,0 +1,23 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "serve": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UGLIPLASTIK/game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UGLIPLASTIK/game/issues"
+  },
+  "homepage": "https://github.com/UGLIPLASTIK/game#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
